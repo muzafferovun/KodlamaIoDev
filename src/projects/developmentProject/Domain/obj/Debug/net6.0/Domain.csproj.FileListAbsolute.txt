@@ -1,0 +1,15 @@
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\bin\Debug\net6.0\Domain.deps.json
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\bin\Debug\net6.0\Domain.dll
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\bin\Debug\net6.0\ref\Domain.dll
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\bin\Debug\net6.0\Domain.pdb
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\bin\Debug\net6.0\Core.Persistence.dll
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\bin\Debug\net6.0\Core.Persistence.pdb
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6.0\Domain.dll
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6.0\ref\Domain.dll
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6.0\Domain.pdb

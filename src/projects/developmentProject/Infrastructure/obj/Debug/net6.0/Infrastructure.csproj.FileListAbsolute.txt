@@ -1,0 +1,12 @@
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Infrastructure\bin\Debug\net6.0\ref\Infrastructure.dll
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb

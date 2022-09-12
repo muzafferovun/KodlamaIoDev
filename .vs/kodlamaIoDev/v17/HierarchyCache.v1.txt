@@ -1,0 +1,577 @@
+﻿++Solution 'kodlamaIoDev' ‎(11 of 11 projects)
+i:{00000000-0000-0000-0000-000000000000}:kodlamaIoDev.sln
+++tests
+i:{00000000-0000-0000-0000-000000000000}:tests
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++projects
+i:{cffb1eb9-6447-4c20-8400-27d7e2b04508}:projects
+++developmentProject
+i:{84e05683-0e4a-4fb1-8fd4-9f0c509bc74c}:developmentProject
+++Application
+i:{edd0cb02-c3c7-4868-8f22-2bb71d56678b}:Application
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\application.csproj
+++Dependencies
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:>979
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:>690
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:>691
+i:{9ceafb04-ae34-4eab-843f-373f7d048a7b}:>1011
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:>1284
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:>501
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:>693
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:>500
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:>692
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:>812
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:>813
+++Features
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\
+++ProgramingLanguages
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\
+++Commands
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\commands\
+++CreateProgramingLanguage
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\commands\createprograminglanguage\
+++CreateProgramingLanguageCommand.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\commands\createprograminglanguage\createprograminglanguagecommand.cs
+++CreateProgramingLanguageCommandValidation.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\commands\createprograminglanguage\createprograminglanguagecommandvalidation.cs
+++DeleteProgramingLanguage
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\commands\deleteprograminglanguage\
+++DeleteProgramingLanguageCommand.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\commands\deleteprograminglanguage\deleteprograminglanguagecommand.cs
+++UpdateProgramingLanguage
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\commands\updateprograminglanguage\
+++UpdateProgramingLanguageCommand.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\commands\updateprograminglanguage\updateprograminglanguagecommand.cs
+++UpdateProgramingLanguageCommandValidator.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\commands\updateprograminglanguage\updateprograminglanguagecommandvalidator.cs
+++UpdateProgramingLanguageFeaturesCommand.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\commands\updateprograminglanguage\updateprograminglanguagefeaturescommand.cs
+++Constants
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\constants\
+++Dtos
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\dtos\
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\dtos\
+++CreatedProgramingLanguageDto.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\dtos\createdprograminglanguagedto.cs
+++ProgramingLanguageDeleteByIdDto.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\dtos\programinglanguagedeletebyiddto.cs
+++ProgramingLanguageFeaturesUpdateDto.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\dtos\programinglanguagefeaturesupdatedto.cs
+++ProgramingLanguageGetByIdDto.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\dtos\programinglanguagegetbyiddto.cs
+++ProgramingLanguageListDto.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\dtos\programinglanguagelistdto.cs
+++ProgramingLanguageUpdateDto.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\dtos\programinglanguageupdatedto.cs
+++Models
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\models\
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\models\
+++ProgramingLanguageListModel.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\models\programinglanguagelistmodel.cs
+++Profiles
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\profiles\
+++MappingProfiles.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\profiles\mappingprofiles.cs
+++Queries
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\queries\
+++DeleteByIdProgramingLanguage
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\queries\deletebyidprograminglanguage\
+++DeleteByIdProgramingLanguageQuery.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\queries\deletebyidprograminglanguage\deletebyidprograminglanguagequery.cs
+++GetByIdProgramingLanguage
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\queries\getbyidprograminglanguage\
+++GetByIdProgramingLanguageQuery.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\queries\getbyidprograminglanguage\getbyidprograminglanguagequery.cs
+++GetListProgramingLanguage
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\queries\getlistprograminglanguage\
+++GetListProgramingLanguageQuery.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\queries\getlistprograminglanguage\getlistprograminglanguagequery.cs
+++Rules
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\rules\
+++ProgramingLanguageBusinessRules.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\rules\programinglanguagebusinessrules.cs
+++Services
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\services\
+++Repositories
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\services\repositories\
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\repositories\
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\repositories\
+++IProgramingLanguageRepository.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\services\repositories\iprograminglanguagerepository.cs
+++ApplicationServiceRegistration.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\applicationserviceregistration.cs
+++Analyzers
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:analyzers
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:analyzers
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:analyzers
+i:{9ceafb04-ae34-4eab-843f-373f7d048a7b}:analyzers
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:analyzers
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:analyzers
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:analyzers
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:analyzers
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:analyzers
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:analyzers
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:analyzers
+++Frameworks
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:frameworks
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:frameworks
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:frameworks
+i:{9ceafb04-ae34-4eab-843f-373f7d048a7b}:frameworks
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:frameworks
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:frameworks
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:frameworks
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:frameworks
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:frameworks
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:frameworks
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:frameworks
+++Packages
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:packages
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:packages
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:packages
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:packages
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:packages
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:packages
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:packages
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:packages
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:packages
+++Projects
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:projects
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:projects
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:projects
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:projects
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:projects
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:projects
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9ceafb04-ae34-4eab-843f-373f7d048a7b}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9ceafb04-ae34-4eab-843f-373f7d048a7b}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:c:\users\muzaffer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:c:\users\muzaffer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:c:\users\muzaffer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:c:\users\muzaffer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:c:\users\muzaffer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:c:\users\muzaffer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:c:\users\muzaffer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:c:\users\muzaffer\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:c:\users\muzaffer\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:c:\users\muzaffer\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:c:\users\muzaffer\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:c:\users\muzaffer\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:c:\users\muzaffer\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{9ceafb04-ae34-4eab-843f-373f7d048a7b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\microsoft.netcore.app
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\domain\microsoft.netcore.app
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\microsoft.netcore.app
+i:{9ceafb04-ae34-4eab-843f-373f7d048a7b}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\infrastructure\microsoft.netcore.app
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\webapi\microsoft.netcore.app
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\microsoft.netcore.app
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\microsoft.netcore.app
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:g:\csharpcore\kodlamaiodev\src\corepackages\core.mailing\microsoft.netcore.app
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\microsoft.netcore.app
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\microsoft.netcore.app
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:>1350
+++FluentValidation.DependencyInjectionExtensions (11.2.1)
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:>1349
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:>1351
+++Core.Application
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\core.application.csproj
+i:{01b7f227-ce8f-41fd-9af8-6af5e5259161}:Core.Application
+++Core.CrossCuttingConcerns
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\core.crosscuttingconcerns.csproj
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\core.crosscuttingconcerns.csproj
+i:{01b7f227-ce8f-41fd-9af8-6af5e5259161}:Core.CrossCuttingConcerns
+++Domain
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\domain\domain.csproj
+i:{edd0cb02-c3c7-4868-8f22-2bb71d56678b}:Domain
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\domain\domain.csproj
+++Entities
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\domain\entities\
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\entities\
+++ProgramingLanguage.cs
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\domain\entities\programinglanguage.cs
+++Enums
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\domain\enums\
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\enums\
+++Core.Persistence
+i:{60a25b9c-7043-4db3-bbbb-38ad845a9b8d}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\core.persistence.csproj
+i:{01b7f227-ce8f-41fd-9af8-6af5e5259161}:Core.Persistence
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\core.persistence.csproj
+++Persistence
+i:{edd0cb02-c3c7-4868-8f22-2bb71d56678b}:Persistence
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\persistence.csproj
+++Contexts
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\contexts\
+++BaseDbContext.cs
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\contexts\basedbcontext.cs
+++Migrations
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\migrations\
+++ProgramingLanguageRepository.cs
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\repositories\programinglanguagerepository.cs
+++PersistenceServiceRegistration.cs
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\persistenceserviceregistration.cs
+++20220902235146_Init.cs
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\migrations\20220902235146_init.cs
+++20220902235937_Init2.cs
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\migrations\20220902235937_init2.cs
+++BaseDbContextModelSnapshot.cs
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\migrations\basedbcontextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore (6.0.8)
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:>1385
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.8)
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:>1386
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:>1401
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:>1387
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:>1363
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:>1332
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:>1333
+++20220902235146_Init.Designer.cs
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\migrations\20220902235146_init.designer.cs
+++20220902235937_Init2.Designer.cs
+i:{ba100288-67ee-469e-a1df-505ea07e69fc}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\persistence\migrations\20220902235937_init2.designer.cs
+++Infrastructure
+i:{edd0cb02-c3c7-4868-8f22-2bb71d56678b}:Infrastructure
+++WebAPI
+i:{edd0cb02-c3c7-4868-8f22-2bb71d56678b}:WebAPI
+++Connected Services 
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:>1285
+++SQL Server Database
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:>1499
+++Properties
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\webapi\properties\
+++launchSettings.json
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\webapi\properties\launchsettings.json
+++Controllers
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\webapi\controllers\
+++BaseController.cs
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\webapi\controllers\basecontroller.cs
+++ProgramingLanguagesController.cs
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\webapi\controllers\programinglanguagescontroller.cs
+++appsettings.json
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\webapi\appsettings.json
+++appsettings.Development.json
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\webapi\appsettings.development.json
+++Program.cs
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\webapi\program.cs
+++SQL Server Database dependency is detected
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:>1500
+++Microsoft.AspNetCore.Analyzers
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\webapi\microsoft.aspnetcore.app
+++MediatR (10.0.1)
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:>1404
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:>1295
+++Microsoft.EntityFrameworkCore.Design (6.0.8)
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:>1402
+++Microsoft.EntityFrameworkCore.Tools (6.0.8)
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:>1406
+++Microsoft.Extensions.DependencyInjection (6.0.0)
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:>1405
+++Swashbuckle.AspNetCore (6.2.3)
+i:{be724399-bf8c-4b99-a0e2-0ff77a6a239c}:>1403
+++corePackages
+i:{cffb1eb9-6447-4c20-8400-27d7e2b04508}:corePackages
+++Pipelines
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\
+++Requests
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\requests\
+++Authorization
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\authorization\
+++Caching
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\caching\
+++Logging
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\logging\
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\logging\
+++Validation
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\validation\
+++PageRequest.cs
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\requests\pagerequest.cs
+++FluentValidation (10.3.6)
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:>1296
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:>1308
+++FluentValidation.DependencyInjectionExtensions (10.3.6)
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:>1294
+++Microsoft.AspNetCore.Http.Abstractions (2.2.0)
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:>1297
+++Microsoft.Extensions.Caching.Abstractions (6.0.0)
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:>1293
+++Core.Security
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\core.security.csproj
+i:{01b7f227-ce8f-41fd-9af8-6af5e5259161}:Core.Security
+++AuthorizationBehavior.cs
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\authorization\authorizationbehavior.cs
+++ISecuredRequest.cs
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\authorization\isecuredrequest.cs
+++CacheRemovingBehavior.cs
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\caching\cacheremovingbehavior.cs
+++CacheSettings.cs
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\caching\cachesettings.cs
+++CachingBehavior.cs
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\caching\cachingbehavior.cs
+++ICachableRequest.cs
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\caching\icachablerequest.cs
+++ICacheRemoverRequest.cs
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\caching\icacheremoverrequest.cs
+++ILoggableRequest.cs
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\logging\iloggablerequest.cs
+++LoggingBehavior.cs
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\logging\loggingbehavior.cs
+++RequestValidationBehavior.cs
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\validation\requestvalidationbehavior.cs
+++ValidationTool.cs
+i:{cd9a8aa1-5cab-4218-91c5-2550bb86354a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.application\pipelines\validation\validationtool.cs
+++Core.ElasticSearch
+i:{01b7f227-ce8f-41fd-9af8-6af5e5259161}:Core.ElasticSearch
+++ElasticSearchManager.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\elasticsearchmanager.cs
+++IElasticSearch.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\ielasticsearch.cs
+++ElasticSearchConfig.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\models\elasticsearchconfig.cs
+++ElasticSearchGetModel.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\models\elasticsearchgetmodel.cs
+++ElasticSearchInsertManyModel.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\models\elasticsearchinsertmanymodel.cs
+++ElasticSearchInsertUpdateModel.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\models\elasticsearchinsertupdatemodel.cs
+++ElasticSearchModel.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\models\elasticsearchmodel.cs
+++ElasticSearchResult.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\models\elasticsearchresult.cs
+++IElasticSearchResult.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\models\ielasticsearchresult.cs
+++IndexModel.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\models\indexmodel.cs
+++SearchByFieldParameters.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\models\searchbyfieldparameters.cs
+++SearchByQueryParameters.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\models\searchbyqueryparameters.cs
+++SearchParameters.cs
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:g:\csharpcore\kodlamaiodev\src\corepackages\core.elasticsearch\models\searchparameters.cs
+++Elasticsearch.Net (7.17.0)
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:>1362
+++Microsoft.Extensions.Configuration.Binder (6.0.0)
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:>1364
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:>1336
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:>1338
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:>1307
+++NEST (7.17.0)
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:>1366
+++NEST.JsonNetSerializer (7.17.0)
+i:{eae0f331-1d99-42f6-9926-34c3ead78bbf}:>1365
+++Core.Mailing
+i:{01b7f227-ce8f-41fd-9af8-6af5e5259161}:Core.Mailing
+++MailKitImplementations
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:g:\csharpcore\kodlamaiodev\src\corepackages\core.mailing\mailkitimplementations\
+++IMailService.cs
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:g:\csharpcore\kodlamaiodev\src\corepackages\core.mailing\imailservice.cs
+++Mail.cs
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:g:\csharpcore\kodlamaiodev\src\corepackages\core.mailing\mail.cs
+++MailSettings.cs
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:g:\csharpcore\kodlamaiodev\src\corepackages\core.mailing\mailsettings.cs
+++MailKitMailService.cs
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:g:\csharpcore\kodlamaiodev\src\corepackages\core.mailing\mailkitimplementations\mailkitmailservice.cs
+++MailKit (3.1.1)
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:>1341
+++MimeKit (3.1.1)
+i:{4ea615c5-8c04-4ea1-91da-c86da54d2e63}:>1339
+++Dynamic
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\dynamic\
+++Paging
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\paging\
+++Dynamic.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\dynamic\dynamic.cs
+++Filter.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\dynamic\filter.cs
+++IQueryableDynamicFilterExtensions.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\dynamic\iqueryabledynamicfilterextensions.cs
+++Sort.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\dynamic\sort.cs
+++BasePageableModel.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\paging\basepageablemodel.cs
+++IPaginate.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\paging\ipaginate.cs
+++IQueryablePaginateExtensions.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\paging\iqueryablepaginateextensions.cs
+++Paginate.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\paging\paginate.cs
+++EfRepositoryBase.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\repositories\efrepositorybase.cs
+++Entity.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\repositories\entity.cs
+++IAsyncRepository.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\repositories\iasyncrepository.cs
+++IQuery.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\repositories\iquery.cs
+++IRepository.cs
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:g:\csharpcore\kodlamaiodev\src\corepackages\core.persistence\repositories\irepository.cs
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:>1337
+++System.Linq.Dynamic.Core (1.2.17)
+i:{54635492-7f95-449b-8c5b-493566f68d4a}:>1340
+++EmailAuthenticator
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\emailauthenticator\
+++Encryption
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\encryption\
+++Extensions
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\extensions\
+++Hashing
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\hashing\
+++JWT
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\jwt\
+++OtpAuthenticator
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\otpauthenticator\
+++SecurityServiceRegistration.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\securityserviceregistration.cs
+++UserForLoginDto.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\dtos\userforlogindto.cs
+++UserForRegisterDto.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\dtos\userforregisterdto.cs
+++EmailAuthenticatorHelper.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\emailauthenticator\emailauthenticatorhelper.cs
+++IEmailAuthenticatorHelper.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\emailauthenticator\iemailauthenticatorhelper.cs
+++SecurityKeyHelper.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\encryption\securitykeyhelper.cs
+++SigningCredentialsHelper.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\encryption\signingcredentialshelper.cs
+++EmailAuthenticator.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\entities\emailauthenticator.cs
+++OperationClaim.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\entities\operationclaim.cs
+++OtpAuthenticator.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\entities\otpauthenticator.cs
+++RefreshToken.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\entities\refreshtoken.cs
+++User.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\entities\user.cs
+++UserOperationClaim.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\entities\useroperationclaim.cs
+++AuthenticatorType.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\enums\authenticatortype.cs
+++ClaimExtensions.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\extensions\claimextensions.cs
+++ClaimsPrincipalExtensions.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\extensions\claimsprincipalextensions.cs
+++HashingHelper.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\hashing\hashinghelper.cs
+++AccessToken.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\jwt\accesstoken.cs
+++ITokenHelper.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\jwt\itokenhelper.cs
+++JwtHelper.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\jwt\jwthelper.cs
+++TokenOptions.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\jwt\tokenoptions.cs
+++OtpNet
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\otpauthenticator\otpnet\
+++IOtpAuthenticatorHelper.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\otpauthenticator\iotpauthenticatorhelper.cs
+++Microsoft.IdentityModel.Tokens (6.15.1)
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:>1343
+++Otp.NET (1.2.2)
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:>1342
+++System.IdentityModel.Tokens.Jwt (6.8.0)
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:>1335
+++OtpNetOtpAuthenticatorHelper.cs
+i:{00aa7cfa-b348-4303-b3d0-40750da10b94}:g:\csharpcore\kodlamaiodev\src\corepackages\core.security\otpauthenticator\otpnet\otpnetotpauthenticatorhelper.cs
+++Exceptions
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\exceptions\
+++AuthorizationException.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\exceptions\authorizationexception.cs
+++AuthorizationProblemDetails.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\exceptions\authorizationproblemdetails.cs
+++BusinessException.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\exceptions\businessexception.cs
+++BusinessProblemDetails.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\exceptions\businessproblemdetails.cs
+++ExceptionMiddleware.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\exceptions\exceptionmiddleware.cs
+++ExceptionMiddlewareExtensions.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\exceptions\exceptionmiddlewareextensions.cs
+++ValidationProblemDetails.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\exceptions\validationproblemdetails.cs
+++Serilog
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\logging\serilog\
+++LogDetail.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\logging\logdetail.cs
+++LogDetailWithException.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\logging\logdetailwithexception.cs
+++LogParameter.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\logging\logparameter.cs
+++Microsoft.AspNetCore.Mvc.Core (2.2.5)
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:>1310
+++Serilog (2.10.0)
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:>1311
+++Serilog.Sinks.File (5.0.0)
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:>1309
+++ConfigurationModels
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\logging\serilog\configurationmodels\
+++Logger
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\logging\serilog\logger\
+++Messages
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\logging\serilog\messages\
+++LoggerServiceBase.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\logging\serilog\loggerservicebase.cs
+++FileLogConfiguration.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\logging\serilog\configurationmodels\filelogconfiguration.cs
+++FileLogger.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\logging\serilog\logger\filelogger.cs
+++SerilogMessages.cs
+i:{a6d04b11-0c09-4361-b044-b743f61d9e06}:g:\csharpcore\kodlamaiodev\src\corepackages\core.crosscuttingconcers\logging\serilog\messages\serilogmessages.cs
+++UpdateProgramingLanguageNameCommand.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\commands\updateprograminglanguage\updateprograminglanguagenamecommand.cs
+++ProgramingLanguageNameUpdateDto.cs
+i:{357c678a-b25b-49d2-a88c-2bbe419fc777}:g:\csharpcore\kodlamaiodev\src\projects\developmentproject\application\features\programinglanguages\dtos\programinglanguagenameupdatedto.cs
