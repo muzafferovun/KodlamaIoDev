@@ -32,11 +32,12 @@ namespace Application.Features.ProgramingLanguages.Commands.UpdateProgramingLang
             public async Task<ProgramingLanguageUpdateDto> Handle(UpdateProgramingLanguageCommand request, CancellationToken cancellationToken)
             {
                 ProgramingLanguageUpdateDto updateDto = _mapper.Map<ProgramingLanguageUpdateDto>(request);
-                await _programingLanguageBusinessRules.ProgramingLanguageIsExistWhenUpdated(updateDto);
                 ProgramingLanguage mappedProgramingLanguage = _mapper.Map<ProgramingLanguage>(updateDto);
-                ProgramingLanguage? updatedProgramingLanguage = await _programingLanguageRepository.UpdateAsync(mappedProgramingLanguage);
+                await _programingLanguageBusinessRules.ProgramingLanguageIsExistWhenUpdated(updateDto);
+
+                ProgramingLanguage updatedProgramingLanguage = await _programingLanguageRepository.UpdateAsync(mappedProgramingLanguage);
                 ProgramingLanguageUpdateDto updatedProgramingLanguageDto = _mapper.Map<ProgramingLanguageUpdateDto>(updatedProgramingLanguage);
-                return updateDto;
+                return updatedProgramingLanguageDto;
             }
 
            

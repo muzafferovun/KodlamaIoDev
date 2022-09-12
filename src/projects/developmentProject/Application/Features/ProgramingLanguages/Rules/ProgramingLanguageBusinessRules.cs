@@ -38,11 +38,26 @@ namespace Application.Features.ProgramingLanguages.Rules
 
         public async Task ProgramingLanguageIsExistWhenUpdated(ProgramingLanguageUpdateDto programingLanguageUpdateDto)
         {
-            IPaginate<ProgramingLanguage> result = await _programingLanguageRepository.GetListAsync(p => p.Name == programingLanguageUpdateDto.Name&&p.Id!=programingLanguageUpdateDto.Id);
+            IPaginate<ProgramingLanguage> result = await _programingLanguageRepository.GetListAsync(p => p.Name == programingLanguageUpdateDto.Name && p.Id != programingLanguageUpdateDto.Id);
             if (result.Items.Any()) throw new BusinessException("ProgramingLanguage name exist");
 
             //           IPaginate<ProgramingLanguage> result = await _programingLanguageRepository.GetListAsync(d => d.Id != programingLanguageUpdateDto.Id&&d.Name==programingLanguageUpdateDto.Name);
             //          if (result.Items.Any()) throw new BusinessException("Requested ProgramingLanguage name exist");
         }
+        public async Task ProgramingLanguageIsExistWhenFeaturesUpdated(int id)
+        {
+            ProgramingLanguage? result = await _programingLanguageRepository.GetAsync(d => d.Id == id);
+            if (result == null) throw new BusinessException("ProgramingLanguage does not exist");
+        }
+        public async Task ProgramingLanguageIsExistWhenNameUpdated(ProgramingLanguageNameUpdateDto programingLanguageUpdateDto)
+        {
+            IPaginate<ProgramingLanguage> result = await _programingLanguageRepository.GetListAsync(p => p.Name == programingLanguageUpdateDto.Name && p.Id != programingLanguageUpdateDto.Id);
+            if (result.Items.Any()) throw new BusinessException("ProgramingLanguage name exist");
+
+            //           IPaginate<ProgramingLanguage> result = await _programingLanguageRepository.GetListAsync(d => d.Id != programingLanguageUpdateDto.Id&&d.Name==programingLanguageUpdateDto.Name);
+            //          if (result.Items.Any()) throw new BusinessException("Requested ProgramingLanguage name exist");
+        }
+
+        
     }
 }

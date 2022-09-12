@@ -22,8 +22,8 @@ namespace Persistance
             services.AddDbContext<BaseDbContext>(options =>
                                                      options.UseSqlServer(
                                                          configuration.GetConnectionString("DevelopmentProjectConnectionString")));
-            IServiceCollection serviceCollection = services.AddScoped<IProgramingLanguageRepository, ProgramingLanguageRepository>();
-
+            services.AddScoped<IProgramingLanguageRepository, ProgramingLanguageRepository>();
+            services.AddScoped<IProgramingLanguageTechnologyRepository, ProgramingLanguageTechnologyRepository>();  
             return services;
         }
     }

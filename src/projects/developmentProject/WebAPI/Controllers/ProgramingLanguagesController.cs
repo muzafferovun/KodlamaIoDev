@@ -12,6 +12,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI.Controllers
 {
+   
     [Route("api/[controller]")]
     [ApiController]
     public class ProgramingLanguagesController:BaseController
@@ -45,11 +46,27 @@ namespace WebAPI.Controllers
             return Ok(result);
         }
         [HttpPut]
+        [Route("Update")]
         public async Task<IActionResult> Update([FromQuery] UpdateProgramingLanguageCommand updateProgramingLanguageCommand)
         {
             ProgramingLanguageUpdateDto result = await Mediator.Send(updateProgramingLanguageCommand);
             return Ok(result);
         }
+        [HttpPut]
+        [Route("UpdateFeatures")]
+        public async Task<IActionResult> UpdateFeatures([FromQuery] UpdateProgramingLanguageFeaturesCommand updateProgramingLanguageCommand)
+        {
+            ProgramingLanguageFeaturesUpdateDto result = await Mediator.Send(updateProgramingLanguageCommand);
+            return Ok(result);
+        }
+        [HttpPut]
+        [Route("UpdateName")]
+        public async Task<IActionResult> UpdateName([FromQuery] UpdateProgramingLanguageNameCommand updateProgramingLanguageNameCommand)
+        {
+            ProgramingLanguageNameUpdateDto result = await Mediator.Send(updateProgramingLanguageNameCommand);
+            return Ok(result);
+        }
+
 
     }
 }

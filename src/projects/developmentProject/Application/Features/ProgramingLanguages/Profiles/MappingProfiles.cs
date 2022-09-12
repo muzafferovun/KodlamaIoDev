@@ -30,9 +30,15 @@ namespace Application.Features.ProgramingLanguages.Profiles
             CreateMap<ProgramingLanguage, ProgramingLanguageUpdateDto>().ReverseMap();
             CreateMap<ProgramingLanguage, UpdateProgramingLanguageCommand>().ReverseMap();
             CreateMap<UpdateProgramingLanguageCommand, ProgramingLanguageUpdateDto>().ReverseMap();
+            CreateMap<ProgramingLanguage, ProgramingLanguageFeaturesUpdateDto>().ReverseMap();
+            CreateMap<ProgramingLanguage, UpdateProgramingLanguageFeaturesCommand>().ReverseMap();
+            CreateMap<UpdateProgramingLanguageCommand, ProgramingLanguageFeaturesUpdateDto>().ReverseMap();
+            CreateMap<ProgramingLanguage, ProgramingLanguageNameUpdateDto>().ReverseMap();
+            CreateMap<ProgramingLanguage, UpdateProgramingLanguageNameCommand>().ReverseMap();
+            CreateMap<UpdateProgramingLanguageNameCommand, ProgramingLanguageNameUpdateDto>().ReverseMap();
 
-
-
+            
+            
 
         }
     }
