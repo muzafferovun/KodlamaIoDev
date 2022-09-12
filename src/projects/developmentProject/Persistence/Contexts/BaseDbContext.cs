@@ -86,6 +86,7 @@ namespace Persistence.Contexts
                 plt.Property(y => y.Created).HasColumnName("Created");
                 plt.Property(y => y.Expiration).HasColumnName("Expiration");
                 plt.Property(y => y.Updated).HasColumnName("Updated");
+                plt.Property(y => y.Token).HasColumnName("Token");
 
                 plt.HasOne(y => y.User);
             });

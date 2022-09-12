@@ -11,6 +11,7 @@ namespace Domain.Entities
     {
         public int UserId { get; set; } 
         public string Name { get; set; }    
+        public string Token { get; set; }   
         public string Device { get; set; }  
         public bool IsActive { get; set; }  
         public DateTime Created { get; set; }   
