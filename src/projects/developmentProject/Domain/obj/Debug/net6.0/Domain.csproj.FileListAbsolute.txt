@@ -13,3 +13,5 @@ G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6
 G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6.0\Domain.dll
 G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6.0\ref\Domain.dll
 G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\obj\Debug\net6.0\Domain.pdb
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\bin\Debug\net6.0\Core.Security.dll
+G:\CSharpCore\KodlamaioDev\src\projects\developmentProject\Domain\bin\Debug\net6.0\Core.Security.pdb

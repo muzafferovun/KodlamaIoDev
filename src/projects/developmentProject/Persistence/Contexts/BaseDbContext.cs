@@ -42,9 +42,52 @@ namespace Persistence.Contexts
             {
                 plt.ToTable("ProgramingLanguageTechnologies").HasKey(x => x.Id);
                 plt.Property(y => y.Id).HasColumnName("Id");
-                plt.Property(y =>y.Name).HasColumnName("Name");
-                plt.Property(y=>y.ProgramingLanguageId).HasColumnName("ProgramingLanguageId");
+                plt.Property(y => y.Name).HasColumnName("Name");
+                plt.Property(y => y.ProgramingLanguageId).HasColumnName("ProgramingLanguageId");
                 plt.HasOne(y => y.ProgramingLanguage);
+            });
+
+            modelBuilder.Entity<User>(plt =>
+            {
+                plt.ToTable("Users").HasKey(x => x.Id);
+                plt.Property(y => y.Id).HasColumnName("Id");
+                plt.Property(y => y.UserTypeId).HasColumnName("UserTypeId");
+                plt.Property(y => y.UserName).HasColumnName("UserName");
+                plt.Property(y => y.Password).HasColumnName("Password");
+                plt.Property(y => y.Email).HasColumnName("Email");
+                plt.Property(y => y.PhoneNumber).HasColumnName("PhoneNumber");
+                plt.Property(y => y.Name).HasColumnName("Name");
+                plt.Property(y => y.Surname).HasColumnName("Surname");
+                plt.Property(y => y.UserImage).HasColumnName("UserImage");
+                plt.Property(y => y.GitAccount).HasColumnName("GitAccount");
+                plt.Property(y => y.IsPhoneConfirmed).HasColumnName("IsPhoneConfirmed");
+                plt.Property(y => y.IsActive).HasColumnName("IsActive");
+                plt.Property(y => y.IsEmailConfirmed).HasColumnName("IsEmailConfirmed");
+                plt.Property(y => y.UserImage).HasColumnName("UserImage");
+
+
+                plt.HasOne(y => y.UserType);
+                plt.HasMany(y=>y.Tokens);
+            });
+            modelBuilder.Entity<UserType>(plt =>
+            {
+                plt.ToTable("UserTypes").HasKey(x => x.Id);
+                plt.Property(y => y.Id).HasColumnName("Id");
+                plt.Property(y => y.Name).HasColumnName("Name");
+                plt.HasMany(y => y.Users);
+            });
+            modelBuilder.Entity<UserToken>(plt =>
+            {
+                plt.ToTable("UserTokens").HasKey(x => x.Id);
+                plt.Property(y => y.Id).HasColumnName("Id");
+                plt.Property(y => y.Name).HasColumnName("Name");
+                plt.Property(y => y.UserId).HasColumnName("UserId");
+                plt.Property(y => y.IsActive).HasColumnName("IsActive");
+                plt.Property(y => y.Created).HasColumnName("Created");
+                plt.Property(y => y.Expiration).HasColumnName("Expiration");
+                plt.Property(y => y.Updated).HasColumnName("Updated");
+
+                plt.HasOne(y => y.User);
             });
 
 
@@ -66,6 +109,23 @@ namespace Persistence.Contexts
                 ,new(6,3, "React")
             };
             modelBuilder.Entity<ProgramingLanguageTechnology>().HasData(programingLanguageTechnologySeeds);
+
+
+            UserType[] userTypeSeeds = {
+                new(1,"Admin")
+                ,new(2,"Moderator")
+                ,new(3,"User")
+            };
+            modelBuilder.Entity<UserType>().HasData(userTypeSeeds);
+
+            User[] userSeeds = {
+                new(1,"muzafferovun@hotmail.com","dsfwerrw324","Muzaffer","Övün","muzafferovun@hotmail.com","05370001415",true,true,true,"","https://github.com/muzafferovun",1)
+                ,new(2,"mustafa_kus@hotmail.com","q1w2e3r4t5y6","Mustafa","Kuş","mustafa_kus@hotmail.com","05370007847",true,true,true,"","https://github.com/mustafakus",2)
+            };
+            modelBuilder.Entity<User>().HasData(userSeeds);
+
+
+
         }
     }
 }

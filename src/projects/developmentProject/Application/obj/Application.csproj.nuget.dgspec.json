@@ -440,6 +440,9 @@
             "projectReferences": {
               "G:\\CSharpCore\\KodlamaioDev\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
                 "projectPath": "G:\\CSharpCore\\KodlamaioDev\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              },
+              "G:\\CSharpCore\\KodlamaioDev\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+                "projectPath": "G:\\CSharpCore\\KodlamaioDev\\src\\corePackages\\Core.Security\\Core.Security.csproj"
               }
             }
           }
